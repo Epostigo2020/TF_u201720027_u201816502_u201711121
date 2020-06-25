@@ -1,0 +1,7 @@
+Amigos.txt
+Mascotas.txt
+Familia.txt
+Electrodomesticos.txt
+Amigazos.txt
+algo.txt
+gaaa.txt

@@ -1,0 +1,3 @@
+Nombre,Apellido,Parentesco
+Evelyn,Cornejo,Hermana
+Olga,Valencia,Madre

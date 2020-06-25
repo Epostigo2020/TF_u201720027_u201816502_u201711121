@@ -1,0 +1,4 @@
+Nombre,Marca
+Televisor,Samsing
+iphone,Apple
+Mouse,Lenovo

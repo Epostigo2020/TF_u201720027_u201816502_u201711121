@@ -1,0 +1,6 @@
+Nombre,Raza,Dueno,FechaNacimiento
+Max,Labrador,Ronaldo,23/05/2010
+Diego,Chusca,Callejero,22/07/2000
+Firualis,Indefinido,Callejero,15/03/2012
+Susu,Chitsu,Giovanny,24/06/2008
+steve,labrador,enrique,20/11/2018
